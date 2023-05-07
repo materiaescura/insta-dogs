@@ -1,0 +1,26 @@
+.comments {
+  height: 200px;
+  overflow-y: auto;
+  word-break: break-word;
+  padding: 0 2rem
+}
+
+.single.comments {
+  padding: 0px;
+}
+
+.comments::-webkit-scrollbar {
+    width: 6px;               /* width of the entire scrollbar */
+  }
+  
+  
+  
+  .comments::-webkit-scrollbar-thumb {
+    background-color: #fb1;    /* color of the scroll thumb */
+  }
+
+.comments li {
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
