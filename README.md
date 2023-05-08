@@ -31,7 +31,7 @@
 - Adicionar comentário em fotos
 - Visualizar estatísticas
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### Pré-requisitos
 
